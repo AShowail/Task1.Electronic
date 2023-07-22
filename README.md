@@ -1,2 +1,4 @@
 # Task1.Electronic
-The first task in the electronics and electrical engineering 
+The first assignment in the electronics and electrical engineering 
+- Push button task
+- led matrix
